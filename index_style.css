@@ -1,0 +1,20 @@
+body {
+    background-color: rgb(68, 66, 66);
+}
+
+#div1 {
+    background-image: url(fejlec.jpg);
+    background-repeat: no-repeat;
+    width: 1900px;
+}
+
+#TrainSimWind {
+    color: white;
+    text-align: center;
+    margin-top: 35px;
+}
+
+.Gombok {
+    background-color: rgb(68, 66, 66);
+    color: white;
+}
