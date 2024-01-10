@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(49, 49, 49);
+}
+
+.container {
+    background-color: rgb(255, 255, 255);
+    height: 70px;
+    width: 1900px;
+}
+
+#logo {
+    margin-left: 320px;
+}
+
+.cikkekpage {
+    margin-left: 280px;
+}
