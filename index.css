@@ -1,0 +1,26 @@
+body {
+    background-color: rgb(44, 44, 44);
+}
+
+#mainpagelogo {
+    height: 37px;
+    width: 70px;
+
+}
+
+.mainpageimage {
+    z-index: -1;
+    position: fixed;
+    width: 100%;
+}
+
+.udvozlet {
+    color: rgb(255, 255, 255);
+    margin-top: 250px;
+    margin-left: 250px;
+    margin-right: 250px;
+    background-color: rgba(83, 83, 83, 0.476);
+    border-radius: 14px;
+
+}
+

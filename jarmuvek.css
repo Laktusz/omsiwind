@@ -1,0 +1,24 @@
+body {
+    background-color: rgb(44, 44, 44);
+}
+
+#mainpagelogo {
+    height: 37px;
+    width: 70px;
+
+}
+
+.mainpageimage {
+    z-index: -1;
+    position: fixed;
+    width: 100%;
+}
+
+#mainpagediv {
+    width: 97%;
+    height: 600px;
+    border-radius: 10px;
+    background-color: rgb(255, 255, 255);
+    z-index: 1;
+    margin-top: 30px;
+}
